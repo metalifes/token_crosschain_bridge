@@ -1,4 +1,4 @@
-# Metalifes Cross Chain Swap Contracts
+# Metalifes Cross Chain Swap
 
 ## Overview
 BSC AURORA Swap Contracts are responsible for registering swap pairs and swapping assets between BSC and AURORA.
