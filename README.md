@@ -3,7 +3,7 @@
 ## Overview
 BSC AURORA Swap Contracts are responsible for registering swap pairs and swapping assets between BSC and AURORA.
 
-![](./assets/bsc-aurora-swap.png)
+![](./bsc-aurora-swap.png)
 
 ### Register swap pair
 
